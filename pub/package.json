@@ -1,0 +1,27 @@
+{
+  "author": "Corno",
+  "files": [
+    "dist",
+    "data"
+  ],
+  "keywords": [],
+  "main": "./dist/index.js",
+  "bugs": {
+    "url": "https://github.com/corno/pareto/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/pareto#readme",
+  "license": "ISC",
+  "name": "api-pareto-common",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/api-pareto-common.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "dependencies": {
+    "pareto-core-types": "^0.6.0"
+  },
+  "interface-fingerprint": "2f66ea486c2df9cbc6a74b55e7877b945e5a66ab",
+  "content-fingerprint": "46dea256c742fb744605f76c93407148250360cc"
+}
